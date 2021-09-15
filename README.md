@@ -44,10 +44,10 @@ Case 4: When Both Switches are ON
 
 ## Activity-4 In Action
 
-|20 DEGREES|25 DEGREES|
+|Case1: 20 DEGREES| Case2: 25 DEGREES|
 |:--:|:--:|
 |![20](https://user-images.githubusercontent.com/80662569/116462498-20d7d880-a887-11eb-827d-3c4601f65f82.PNG) |![25](https://user-images.githubusercontent.com/80662569/116462506-22a19c00-a887-11eb-9f96-e03d69035c7e.PNG)|
-|29 DEGREES|33 DEGREES|
+|Case3: 29 DEGREES|Case4: 33 DEGREES|
 |![29](https://user-images.githubusercontent.com/80662569/116462509-233a3280-a887-11eb-9b8f-c925bc36cdcd.PNG)|![33](https://user-images.githubusercontent.com/80662569/116462511-233a3280-a887-11eb-91a9-a11098dc7529.PNG)|
 
 ### CI and Code Quality
