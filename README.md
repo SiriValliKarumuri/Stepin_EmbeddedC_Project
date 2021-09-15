@@ -52,12 +52,16 @@ Case 4: When Both Switches are ON
 
 ### CI and Code Quality
 
+|Cpp check|Codacy|Code Inspector|
+
 <a href="https://frontend.code-inspector.com/public/user/github/SiriValliKarumuri">
    <img src="https://www.code-inspector.com/project/28652/score/svg"/>
-   
    <img src="https://www.code-inspector.com/project/28652/status/svg"/>
 </a>
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f603a44bd58c424fbb3889e94c2a95eb)](https://www.codacy.com/gh/SiriValliKarumuri/Stepin_EmbeddedC_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SiriValliKarumuri/Stepin_EmbeddedC_Project&amp;utm_campaign=Badge_Grade)
 
-[![Cppcheck](https://github.com/SiriValliKarumuri/Stepin_EmbeddedC_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SiriValliKarumuri/Stepin_EmbeddedC_Project/actions/workflows/c-cpp.yml)
+[![Cppcheck](https://github.com/SiriValliKarumuri/Stepin_EmbeddedC_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/SiriValliKarumuri/Stepin_EmbeddedC_Project/actions/workflows/c-cpp.yml)[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f603a44bd58c424fbb3889e94c2a95eb)](https://www.codacy.com/gh/SiriValliKarumuri/Stepin_EmbeddedC_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SiriValliKarumuri/Stepin_EmbeddedC_Project&amp;utm_campaign=Badge_Grade)<a href="https://frontend.code-inspector.com/public/user/github/SiriValliKarumuri">
+   <img src="https://www.code-inspector.com/project/28652/score/svg"/>
+   <img src="https://www.code-inspector.com/project/28652/status/svg"/>
+</a>
