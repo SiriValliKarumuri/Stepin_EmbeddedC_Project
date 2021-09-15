@@ -16,10 +16,13 @@
 
 ## Activity-1 In Action
 
-|Case 1: When Both Switches are OFF|
-|Case 2: When Switch 1 is OFF and Switch 2 is ON|
-|Case 3: When Both Switch 1 is ON and Switch 2 is ON|
-|Case 4: When Both Switches are ON|
+Case 1: When Both Switches are OFF
+
+Case 2: When Switch 1 is OFF and Switch 2 is ON
+
+Case 3: When Both Switch 1 is ON and Switch 2 is ON
+
+Case 4: When Both Switches are ON
 
 |OFF|OFF|OFF|ON|
 |:--:|:--:|:--:|:--:|
