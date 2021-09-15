@@ -1,6 +1,22 @@
 # Stepin_EmbeddedC_Project
 ## Seat Heater
+
+# Activities Description
+
+|Activity|Description|
+|:--:|:--:|
+|Activity 1| Blink the LED when the passenger is in the seat and the heater is pressed|
+|Activity 2| Convert the analog signal from the temperature sensor to the digital value|
+|Activity 3| Generate the PWM signal according to the converted digital value|
+|Activity 4| Send the temperature value to the serial monitor using UART protocol|
+
+# Assumptions
+* Switches are used to the realize the passenger in the seat and the press of the heater
+* The temperature sensor is realized using the potentiometer
+
 ## Activity-1 In Action
+|Case 1: When Both Switches are OFF|Case 2: When Switch 1 is OFF and Switch 2 is ON|
+|Case 3: When Both Switch 1 is ON and Switch 2 is ON|Case 4: When Both Switches are ON|
 
 |OFF|OFF|OFF|ON|
 |:--:|:--:|:--:|:--:|
