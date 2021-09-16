@@ -10,5 +10,4 @@
           
 ## FLOWCHART:
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fonline.visual-paradigm.com%2Fdiagrams%2Ftemplates%2Fflowchart%2Fheater-control%2F&psig=
-          AOvVaw1vXSSgdPlbOPWq_oy5ZY5K&ust=1631875127665000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMih6tymg_MCFQAAAAAdAAAAABAD"/>
+<img src="https://online.visual-paradigm.com/repository/images/67333b55-2a0f-43af-bb01-5e12f4200da1.png"/>
