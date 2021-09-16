@@ -56,8 +56,7 @@
 | ----------- | ----------- |
 | HLR1   | Check the person is available or not |
 | HLR2   | Decides either on the seat or not|
-| HLR3   | Sense the temperature in active way that is not less than 
-          20Degrees and greater than 33degrees|
+| HLR3   | Sense the temperature in active way that is not less than 20Degrees and greater than 33degrees|
 | HLR4   | Display the required value according to user|
 
 ### Low Level Requirements
