@@ -1,12 +1,10 @@
 ## PIN DIAGRAM:
  
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomponents101.com%2Fmicrocontrollers%2Fatmega328p-pinout-features-datasheet&psig=AOvVaw1sT
-          Gbm7kqp6ljHSfbLLokl&ust=1631874921900000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjhifqlg_MCFQAAAAAdAAAAABAE"/>
+<img src="https://components101.com/sites/default/files/component_pin/ATMega328P-Pinout.png"/>
           
 ## BLOCK DIAGRAM:
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmicrocontrollerslab.com%2Fatmega328p-microcontroller-pinout-prograamming-features-datasheet%2F&psig=
-          AOvVaw0sTd-1aFiuab1iTYRoRNu6&ust=1631875059288000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjs3MCmg_MCFQAAAAAdAAAAABAD"/>
+<img src="https://microcontrollerslab.com/wp-content/uploads/2019/12/ATMEGA328P-Block-Diagram.jpg"/>
           
 ## FLOWCHART:
 
