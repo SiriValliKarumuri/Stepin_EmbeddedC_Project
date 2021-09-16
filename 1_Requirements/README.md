@@ -3,13 +3,11 @@
 
 ## Introduction
 
-    The seat heater heats up fast and stays warm, combating fatigue and relaxing you.
-    The seat optimizes the place and temperature control according to the time after the heater activates. 
-    It reduces the time it takes until you feel warm and maintains comforting warmth for longer.
-    As blood circulation improves, fatigue when driving is minimized, relaxing drivers in the car.
-    Seat Heater is powered by a heating element, a long strip of material that functions as a resistor.
-    A resistor resists the flow of electricity. When electric current flows through it, 
-    the energy is turned into heat, which flows through the seat, warming the rider.
+  The seat heater heats up fast and stays warm, combating fatigue and relaxing you.The seat optimizes the place and temperature control 
+  according to the time after the heater activates.   It reduces the time it takes until you feel warm and maintains comforting warmth for 
+  longer.As blood circulation improves, fatigue when driving is minimized, relaxing drivers in the car.Seat Heater is powered by a heating 
+  element, a long strip of material that functions as a resistor.A resistor resists the flow of electricity. When electric current flows
+  through it,the energy is turned into heat, which flows through the seat, warming the rider.
 
 ## Features
 
@@ -50,7 +48,7 @@
  
  **WHY**   : Comfort for user.
  
- **HOW**   : Operates by Temperature Sendor and microcontroller.
+ **HOW**   : Operates by Temperature Sensor and microcontroller.
 
 ## Detail requirements
 ### High Level Requirements
