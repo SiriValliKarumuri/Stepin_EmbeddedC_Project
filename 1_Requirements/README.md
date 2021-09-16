@@ -43,9 +43,13 @@
 ## 4W's and 1'H
 
  **WHAT**  : Seat Heater System.
+ 
  **WHERE** : Used in Transportation,Automobiles.
+ 
  **WHEN**  : Winter seasons and according to user.
+ 
  **WHY**   : Comfort for user.
+ 
  **HOW**   : Operates by Temperature Sendor and microcontroller.
 
 ## Detail requirements
