@@ -17,3 +17,4 @@
 
  * The flowchart contains the process how seat is activated and at what temperature.
 <img src="https://online.visual-paradigm.com/repository/images/67333b55-2a0f-43af-bb01-5e12f4200da1.png"/>
+<img src="![useage diagram](https://user-images.githubusercontent.com/89719399/135436238-540f6f36-f945-4cde-9c89-18986ee0e8fa.png)"/>
